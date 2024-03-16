@@ -1,0 +1,49 @@
+#c_name {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+#c_name_p1 {
+    color: #DAA520;
+    font-family: 'Courier New', monospace;
+}
+#c_name_p2 {
+    color: #eb920e;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+#v_cards {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    height: 100vh;
+    width: 100vw;
+    max-height: 50px;
+    max-width: 1280px;
+    min-height: 400px;
+    min-width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+}
+.card {
+    height: 300px;
+    width: 400px;
+    background: #808080;
+    border-radius: 10px;
+    transition: background 0.8s;
+    overflow: hidden;
+    background: #000;
+    box-shadow: 0 70px 63px -60px #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+#v_cards img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }

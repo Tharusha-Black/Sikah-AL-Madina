@@ -1,0 +1,10 @@
+#contact_us_head {
+    color: #DAA520;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+}
+#submit_btn {
+    float: right;
+    width: 100px;
+    margin-right: 65px;
+}
